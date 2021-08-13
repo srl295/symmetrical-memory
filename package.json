@@ -1,0 +1,23 @@
+{
+  "name": "symmetrical-memory",
+  "version": "1.0.0",
+  "description": "JS games. But in JS. And games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srl295/symmetrical-memory.git"
+  },
+  "keywords": [],
+  "author": "Steven R. Loomis <srl295@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/srl295/symmetrical-memory/issues"
+  },
+  "homepage": "https://github.com/srl295/symmetrical-memory#readme",
+  "devDependencies": {
+    "tap": "^15.0.9"
+  }
+}
